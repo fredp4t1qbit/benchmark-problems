@@ -1,3 +1,4 @@
+## spin-glass problem instances
 This folder contains the spin-glass instances that were studied in the [paper](https://www.frontiersin.org/articles/10.3389/fphy.2019.00048/full): **Physics-Inspired Optimization for Quadratic Unconstrained Problems Using a Digital Annealer**
 
 The problem instances are divided in four categories based on the couplers' adjacency and disorder: 
@@ -39,5 +40,5 @@ For example, the line:
 indicates that the matrix element _Q[1,64]_ is -1 and _Q[64,1]_ is 0. Diagonal elements are given in the same way,
 with equal ```variable_index1``` and ```variable_index2```. 
 
-Note that the elements of the _Q_ matrix, the energy offset, and therefore the best known energies
+Note that the elements of the _Q_ matrix, the constant term, and therefore the best known energies
 are all integer.
