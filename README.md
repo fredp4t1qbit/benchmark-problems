@@ -1,2 +1,2 @@
 # benchmark-problems
-Publicly available problems that can be used to benchmark and eval solvers
+Publicly available problem instances that can be used to benchmark and evalute quadraic unconstrained binary optimization (QUBO) solvers
